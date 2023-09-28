@@ -76,7 +76,7 @@ function App() {
                 {
                   label: 'Project', key: '1', icon: <FolderOpenOutlined />, children: [
                     {
-                      label: 'Van lang new web 2', key: '2', icon: <DingdingOutlined />, children: [
+                      label: 'Van lang new web', key: '2', icon: <DingdingOutlined />, children: [
                         { label: 'Login Suit', key: '3', icon: <LoginOutlined /> },
                         { label: 'Schedules Suit', key: '4', icon: <LoginOutlined /> },
                       ]
